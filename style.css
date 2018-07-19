@@ -1,0 +1,21 @@
+.pink{
+    background-color:#ffaaaa
+    margin:20px 20px 20px 20px;
+    padding:20px 20px 20px 20px;
+    font-size: 24px;
+    font-family: Helvetica;
+    color:333333
+}
+img:hover{
+border:12px solid black;
+transform: rotate(180deg);
+transition-duration: 2000ms;
+}
+body{
+    background-color: yellow;
+    }
+    h1{
+    color:red;
+    font-size: 50px;
+    font-family: Helvetica;
+    }
